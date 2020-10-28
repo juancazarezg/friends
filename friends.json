@@ -1,22 +1,37 @@
 [
   {
     "name": "Juan",
-    "hobby": "fortnite"
+    "hobby": "fortnite",
+    "age" : "21",
+    "phone" : "4771234567",
+    "adress" : "Leon"
   },
   {
     "name": "Hugo",
-    "hobby": "LOL"
+    "hobby": "LOL",
+    "age" : "23",
+    "phone" : "436235357",
+    "adress" : "GDL"
   },
   {
     "name": "Guido",
-    "hobby": "LOL"
+    "hobby": "LOL",
+    "age" : "21",
+    "phone" : "476687567",
+    "adress" : "Lagos"
   },
   {
     "name": "Andre",
-    "hobby": "Valorant"
+    "hobby": "Valorant",
+    "age" : "20",
+    "phone" : "572574558",
+    "adress" : "AGS"
   },
   {
     "name": "Alex",
-    "hobby": "COD"
+    "hobby": "COD",
+    "age" : "19",
+    "phone" : "5685679779",
+    "adress" : "SIN"
   }
 ]
